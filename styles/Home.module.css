@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: rgb(224, 221, 16);
+}
+
+.title {
+    color: rgb(255, 124, 2);
+    text-align: center;
+    
+}
+
+.card {
+    height: 100px;
+    background-color: rgb(238, 17, 17);
+}
+
+.card2 {
+    height: 100px;
+    background-color: rgb(30, 211, 69);
+}
+
+.card3 {
+    height: 100px;
+    background-color: rgb(225, 0, 255);
+}
+
+
+
+.footer {
+    background-color: rgb(233, 131, 228);
+    text-align: center;
+    width: 500%;
+    height: 100px;
+    
+}
+
+
+
