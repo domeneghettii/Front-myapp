@@ -12,8 +12,9 @@ export default function Home() {
                 <Card title="LILO" content="Mesmo com a sua personalidade excêntrica e os seus momentos de irresponsabilidade e desobediência, Lilo é uma menina muito bondosa, paciente, fiel, engraçada, caridosa e que se preocupa com os outros." />
                 <Card title="LILO E STITCH" content="À medida que a história se desenrola, Lilo ensina Stitch sobre amor, família e o significado de pertencimento, enquanto ele tenta se adaptar ao mundo humano e a sua nova vida. O filme aborda temas como a importância da família, a superação de desafios e a aceitação das diferenças." />
                 </div>
-                <div className="imagem">
-                    <img src="/LILO.jpg"></img>
+
+                <div className="img">
+                    <img src="../Img/lilostitch.png"></img>
                 </div>
             </main>
             <Footer />
